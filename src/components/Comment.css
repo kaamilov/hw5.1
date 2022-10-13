@@ -1,0 +1,19 @@
+.wrapper{
+    width: 100px;
+    height:150px;
+    background-color: tomato;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px black;
+    border: 1px  solid black ;
+   
+}
+.container{
+    display: flex;
+}
+.container div{
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+
